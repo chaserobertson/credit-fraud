@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Mac cache
-*/.DS_Store
+*.DS_Store
